@@ -2,7 +2,10 @@
     margin: 0;
     padding: 0;
     box-sizing: border-box;
-    font-family: 'Dancing Script';
+    font-family: Arial, Helvetica, sans-serif;
+}
+.cap{
+    font-family: 'Dancing Script',cursive !important; 
 }
 .header{
 background-image: url(/images/img1.webp);
@@ -22,4 +25,16 @@ background-image: url(/images/img1.webp);
 .btn{
     display: flex;
     justify-content: center;
+}
+.cards{
+    display: flex;
+}
+.heading{
+    background-color: #e6f3ff;
+}
+.trad{
+    display: flex;
+}
+.north{
+    display: flex;
 }
