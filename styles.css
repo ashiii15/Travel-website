@@ -38,3 +38,9 @@ background-image: url(/images/img1.webp);
 .north{
     display: flex;
 }
+.card1{
+    height: 50px;
+}
+.container{
+    display: flex;
+}
