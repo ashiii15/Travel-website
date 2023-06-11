@@ -16,7 +16,7 @@ background-image: url(/images/img1.webp);
     position: relative;
 }
 .container .colr{
-    color: #ffa31a;
+    color: #fff;
     font-size: 50px;
 }
 .row{
@@ -54,4 +54,35 @@ background-image: url(/images/img1.webp);
 }
 .client{
     display: flex;
+}
+.col-3{
+    margin-left: 2rem;
+}
+p{
+    width: 85%;
+    margin-left: 30px;
+}
+.checked {
+    color: orange;
+}
+.scl{
+padding: 20px;
+}
+.social i{
+    font-size: 25px;
+    outline: none;
+    border-radius: 50%;
+    transition: width 0.5s;
+    color: #fff;
+}
+
+.footers{
+    display: flex;
+    justify-content: space-around;
+}
+footer{
+background-color: #003366;
+}
+.col-4 .image{
+    margin-left: 10rem !important;
 }
