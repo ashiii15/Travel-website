@@ -55,8 +55,8 @@ background-image: url(/images/img1.webp);
 .client{
     display: flex;
 }
-.col-3{
-    margin-left: 2rem;
+.prem{
+    margin-left: 10rem !important;
 }
 p{
     width: 85%;
