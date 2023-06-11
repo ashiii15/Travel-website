@@ -30,7 +30,7 @@ background-image: url(/images/img1.webp);
     display: flex;
 }
 .heading{
-    background-color: #e6f3ff;
+    background-color: #e2e3e5;
 }
 .trad{
     display: flex;
@@ -42,5 +42,16 @@ background-image: url(/images/img1.webp);
     height: 50px;
 }
 .container{
+    display: flex;
+    justify-content: center;
+}
+.images{
+    width: 93% !important;
+    margin-right: 20px !important;
+}
+.customer{
+    background-color: #e2e3e5;
+}
+.client{
     display: flex;
 }
